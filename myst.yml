@@ -14,7 +14,7 @@ project:
       affiliations:
         - New York University
         - Financial Access Initiative (FAI)
-  github: https://github.com/jhconning/social-finance
+  github: https://github.com/jhconning/socialfinance
   jupyter: 
     lite: true
 
@@ -33,8 +33,8 @@ project:
 
 site:
   template: book-theme
-  domains:
-      - https://jhconning-social-finance.curve.space/
+ # domains:
+ #     - https://jhconning-socialfinance.curve.space
   options:
     logo_text: Social Finance
     favicon: notebooks\figs\Im.png
