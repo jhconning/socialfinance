@@ -33,6 +33,8 @@ project:
 
 site:
   template: book-theme
+  domains:
+      - https://jhconning-social-finance.curve.space/
   options:
     logo_text: Social Finance
     favicon: notebooks\figs\Im.png
