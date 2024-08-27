@@ -26,9 +26,9 @@ project:
     - file: README.md
     - title: Model
       children:
-        - file: notebooks\socfin_m.ipynb
-        - file: notebooks\basicmodel.ipynb
-        - file: notebooks\results.md
+        - file: notebooks/socfin_m.ipynb
+        - file: notebooks/basicmodel.ipynb
+        - file: notebooks/results.md
     
 
 site:
